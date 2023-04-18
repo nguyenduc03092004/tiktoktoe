@@ -1,0 +1,160 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+
+/* .img {
+    background-image: url(./src/eimi-thumb.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 1300px;
+    position: relative;
+    left: 300px;
+
+} */
+/* .body {
+    background-color: aquamarine;
+} */
+
+.lineOne {
+    border: solid red 1px;
+    height: 200px;
+    width: 600px;
+    padding: 0px;
+    position: relative;
+    top: 200px;
+    left: 500px;
+
+}
+
+.one {
+    border: solid blue 1px;
+    height: 200px;
+    width: 200px;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.two {
+    border: solid blue 1px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+
+.three {
+    border: solid blue 1px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 400px;
+    left: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+
+.lineTwo {
+    border: solid red 1px;
+    height: 200px;
+    width: 600px;
+    padding: 0px;
+    position: relative;
+    top: 200px;
+    left: 500px;
+
+}
+
+.four {
+    border: solid blue 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+
+.five {
+    border: solid blue 1px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+
+.six {
+    border: solid blue 1px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 400px;
+    left: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+
+.lineThree {
+    border: solid red 1px;
+    height: 200px;
+    width: 600px;
+    padding: 0px;
+    position: relative;
+    top: 200px;
+    left: 500px;
+
+}
+
+.seven {
+    border: solid blue 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+
+.eight {
+    border: solid blue 1px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+
+.nine {
+    border: solid blue 1px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 400px;
+    left: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
